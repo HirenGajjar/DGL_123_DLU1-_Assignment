@@ -15,4 +15,4 @@ https://github.com/HirenGajjar/DGL_123_DLU1-_Assignment
     A. Arithmatic
     B. String
     C. Comparision
-    D. 
+    D. Logical
