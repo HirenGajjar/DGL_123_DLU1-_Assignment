@@ -8,3 +8,6 @@ https://github.com/HirenGajjar/DGL_123_DLU1-_Assignment
 2. Update Variable
 3. Arrays
 4. Index in array
+5. Updating array elements
+6. Multidimentional array
+7. 
