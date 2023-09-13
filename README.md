@@ -6,3 +6,5 @@ https://github.com/HirenGajjar/DGL_123_DLU1-_Assignment
 
 1. Variables
 2. Update Variable
+3. Arrays
+4. Index in array
