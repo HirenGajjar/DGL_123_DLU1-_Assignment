@@ -11,3 +11,8 @@ https://github.com/HirenGajjar/DGL_123_DLU1-_Assignment
 5. Updating array elements
 6. Multidimentional array
 7. Use of echo shorthand
+8. Operators
+    A. Arithmatic
+    B. String
+    C. Comparision
+    D. 
